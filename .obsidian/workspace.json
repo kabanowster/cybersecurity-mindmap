@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "33e5544faa65c26d",
+    "type": "split",
+    "children": [
+      {
+        "id": "30a0296e11596eea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4f65690800411de",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Podgląd grafu"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "45cd62eeb511d9dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b066246f96214c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ba5fbebb70bacec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Pliki"
+            }
+          },
+          {
+            "id": "99552dd2e8c82b8d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Wyszukiwarka"
+            }
+          },
+          {
+            "id": "3fd6ba02e69cf4a6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Ulubione"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 206.9375,
+    "collapsed": true
+  },
+  "right": {
+    "id": "32ec8e863d9df677",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad9b25502bb54093",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0dc92d2e14f26681",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CVE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Linki zwrotne"
+            }
+          },
+          {
+            "id": "d639b9bc8ed64122",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CVE.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Łącza wychodzące"
+            }
+          },
+          {
+            "id": "3c778de12ade2bc0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tagi"
+            }
+          },
+          {
+            "id": "e5dc376d17a2e4f8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Wszystkie atrybuty"
+            }
+          },
+          {
+            "id": "b15e14a354e1292d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CVE.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Konspekt"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Otwórz okno szybkiego wyboru": false,
+      "graph:Otwórz podgląd grafu": false,
+      "canvas:Stwórz nową tablicę": false,
+      "daily-notes:Otwórz dzisiejszy dziennik": false,
+      "templates:Wstaw szablon": false,
+      "command-palette:Otwórz paletę poleceń": false,
+      "bases:Stwórz nową bazę danych": false
+    }
+  },
+  "active": "f4f65690800411de",
+  "lastOpenFiles": [
+    "Security Audits.md",
+    "Nessus.md",
+    "OpenVAS.md",
+    "Vulnerability Assessment.md",
+    "NIST.md",
+    "NVD.md",
+    "OVAL.md",
+    "SCAP.md",
+    "CVE.md",
+    "Pasted image 20261101164642.png",
+    "Vulnerability.md",
+    "DREAD.md",
+    "Bug Bounties.md",
+    "CVSS.md",
+    "Pentesting.md",
+    "PTES.md",
+    "ISO 27001.md",
+    "HIPAA.md",
+    "PCI DSS.md",
+    "Purple Team.md",
+    "Red Team.md",
+    "Security Assessments.md",
+    "Application and System Inventory.md",
+    "Assets Inventory.md",
+    "Asset Management.md",
+    "Risk.md",
+    "Exploit.md",
+    "Pasted image 20261101134848.png",
+    "images/Pasted image 20261101133457.png",
+    "images/Pasted image 20261031182344.png",
+    "images/Pasted image 20261031174022.png",
+    "images",
+    "images/Pasted image 20261031175813.png",
+    "images/Pasted image 20261031175438.png"
+  ]
+}
