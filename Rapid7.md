@@ -1,6 +1,6 @@
 ---
 tags:
   - database
+www: https://www.rapid7.com/db/
 ---
-
-[Rapid7](https://www.rapid7.com/db/)
+[[Metasploit]]
