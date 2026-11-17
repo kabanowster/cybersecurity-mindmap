@@ -8,4 +8,4 @@ www: https://github.com/samratashok/nishang
 ---
 ASP.Net webshell emulating Powershell
 
-[[Payloads]]
+[[Web Shells]]

@@ -1,0 +1,36 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "automated": 2,
+    "bash": 3,
+    "database": 5,
+    "evaluation": 6,
+    "linux": 7,
+    "module": 8,
+    "oob": 9,
+    "org": 10,
+    "powershell": 12,
+    "protocol": 13,
+    "python": 14,
+    "ruby": 23,
+    "scanner": 15,
+    "script": 16,
+    "standards": 17,
+    "structure": 18,
+    "theory": 19,
+    "tool": 20,
+    "webshell": 21,
+    "windows": 22
+  },
+  "tagColors": {},
+  "_version": 4
+}

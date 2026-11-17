@@ -5,20 +5,13 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#structure  ",
       "color": {
         "a": 1,
         "rgb": 6938706
-      }
-    },
-    {
-      "query": "tag:#pentest  ",
-      "color": {
-        "a": 1,
-        "rgb": 15091527
       }
     },
     {
@@ -41,6 +34,20 @@
         "a": 1,
         "rgb": 13190137
       }
+    },
+    {
+      "query": "tag:#protocol  ",
+      "color": {
+        "a": 1,
+        "rgb": 16731522
+      }
+    },
+    {
+      "query": "tag:#theory  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
     }
   ],
   "collapse-display": false,
@@ -49,10 +56,10 @@
   "nodeSizeMultiplier": 1.27818702478523,
   "lineSizeMultiplier": 1.44947170929199,
   "collapse-forces": false,
-  "centerStrength": 0.405154537375333,
-  "repelStrength": 8.96218031006221,
+  "centerStrength": 0.310654685494223,
+  "repelStrength": 9.55341415397368,
   "linkStrength": 1,
-  "linkDistance": 89,
-  "scale": 0.468110893440535,
+  "linkDistance": 219,
+  "scale": 0.4614854782057609,
   "close": true
 }

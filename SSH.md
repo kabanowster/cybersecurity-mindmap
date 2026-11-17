@@ -1,8 +1,10 @@
 ---
 tags:
-  - tool
+  - windows
+  - linux
+  - protocol
 ---
-```shellsession
+```bash
 sudo systemctl enable ssh
 sudo systemctl start ssh
 ```
@@ -12,4 +14,3 @@ sudo systemctl start ssh
 
 ---
 [[SCP]]
-[[Payloads]]

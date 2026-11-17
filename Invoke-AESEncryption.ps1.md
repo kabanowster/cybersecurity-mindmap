@@ -12,4 +12,4 @@ htb:
 Import-Module .\Invoke-AESEncryption.ps1
 ```
 
-[[File Encryption]]
+[[AES]]

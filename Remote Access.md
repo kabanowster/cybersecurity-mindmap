@@ -1,0 +1,7 @@
+---
+tags:
+  - theory
+---
+
+[[WinRM]]
+[[SSH]]]

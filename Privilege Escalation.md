@@ -1,5 +1,5 @@
 ---
 tags:
-  - pentest
+  - theory
 ---
 [[PowerUp]]

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "992052cc3e60a9de",
+        "id": "0071690f12dc5fd2",
         "type": "tabs",
         "children": [
           {
-            "id": "628f12712ddb81f3",
+            "id": "b9f6fd5f4286ff9b",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#oob",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,6 +169,26 @@
               "icon": "lucide-list",
               "title": "Konspekt"
             }
+          },
+          {
+            "id": "c93061b211beb88b",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "31820d54642fbcbd",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
           }
         ],
         "currentTab": 2
@@ -186,37 +206,40 @@
       "daily-notes:Otwórz dzisiejszy dziennik": false,
       "templates:Wstaw szablon": false,
       "command-palette:Otwórz paletę poleceń": false,
-      "bases:Stwórz nową bazę danych": false
+      "bases:Stwórz nową bazę danych": false,
+      "juggl:Juggl global graph": false
     }
   },
-  "active": "628f12712ddb81f3",
+  "active": "b9f6fd5f4286ff9b",
   "lastOpenFiles": [
-    "Laudanum.md",
-    "Web Shells.md",
-    "Bug Bounties.md",
-    "NVD.md",
-    "CVE.md",
-    "Exploit-db.md",
-    "Rapid7.md",
-    "CVEDetails.com.md",
-    "Burp Suite.md",
-    "Metasploit.md",
-    "MSFVenom.md",
-    "Payloads.md",
-    "Antak.md",
-    "SSH.md",
-    "IPS.md",
-    "Execution Policy.md",
-    "UAC.md",
-    "TCP.md",
-    "UDP.md",
-    "NetCat.md",
-    "NSE.md",
-    "Nmap.md",
-    "CPE.md",
-    "SNMP.md",
-    "TCP-IP.md",
-    "OSI.md",
+    "LDAP.md",
+    "File Transfers.md",
+    "NetExec.md",
+    "pypykatz.md",
+    "Hydra.md",
+    "John The Ripper.md",
+    "hashcat.md",
+    "Rainbow Tables.md",
+    "creds.md",
+    "mimipenguin.md",
+    "mimikatz.md",
+    "DSA.md",
+    "PAM.md",
+    "LSA.md",
+    "LSASS.md",
+    "Credential Manager.md",
+    "logs.md",
+    "unshadow.md",
+    "shadow.md",
+    "opasswd.md",
+    "passwd.md",
+    "NTLM.md",
+    "Loot.md",
+    "SAM.md",
+    "LaZagne.md",
+    "kerbrute.md",
+    "Bez nazwy.canvas",
+    "Bez nazwy.base",
     "Pasted image 20261108130424.png",
     "Pasted image 20261101164642.png",
     "Pasted image 20261101134848.png",
